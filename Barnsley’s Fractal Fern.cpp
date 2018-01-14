@@ -1,5 +1,5 @@
 /*
-CSCI 272 Project 1: Barnsley’s Fractal Fern
+CSCI 272 Project 1: Barnsleyâ€™s Fractal Fern
 Student name: Nisha Gurunath Bharathi
 Student ID: 109896013
   
