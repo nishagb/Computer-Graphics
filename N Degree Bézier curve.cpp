@@ -2,7 +2,7 @@
 Name: Nisha Gurunath Bharathi
 ID: 109896013
 
-Project name: CSCI 272 Program Assignment4: N Degree Bézier curve
+Project name: CSCI 272 Program Assignment4: N Degree BÃ©zier curve
 */
 
 #include <string.h>
